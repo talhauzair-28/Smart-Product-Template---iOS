@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Smart_Product_Template_Smart_Product_TemplateUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Smart_Product_Template_Smart_Product_TemplateUITests
+@end

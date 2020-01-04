@@ -1,0 +1,6 @@
+framework module Pods_Smart_Product_TemplateTests {
+  umbrella header "Pods-Smart Product TemplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
