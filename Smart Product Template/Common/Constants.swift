@@ -9,5 +9,5 @@
 import Foundation
 
 class Constants{
-    public static let EXAMPLE = "Example"
+    public static let EXAMPLE = ""
 }
